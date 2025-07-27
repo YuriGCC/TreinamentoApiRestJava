@@ -42,7 +42,7 @@ mvn spring-boot:run
 ```
 4. Acesse a documentação Swagger em:
 ```bash
-[[[mvn spring-boot:run](http://localhost:8080/swagger-ui.html)](http://localhost:8080/swagger-ui.html)](http://localhost:8080/swagger-ui.html)
+http://localhost:8080/swagger-ui.html
 ```
    
 📌 Endpoints Principais
