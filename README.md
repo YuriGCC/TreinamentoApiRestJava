@@ -46,10 +46,10 @@ http://localhost:8080/swagger-ui.html
 ```
    
 📌 Endpoints Principais
-POST /api/auth/login - Autenticação de usuário
-GET /api/entidades - Lista todas as entidades
-POST /api/entidades - Cria nova entidade
-GET /api/entidades/{id} - Busca entidade por ID
+- POST /api/auth/login - Autenticação de usuário
+- GET /api/entidades - Lista todas as entidades
+- POST /api/entidades - Cria nova entidade
+- GET /api/entidades/{id} - Busca entidade por ID
 
 📝 Observações
 Uso de DTOs para transferência de dados
